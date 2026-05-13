@@ -53,12 +53,6 @@
 - Kotlin 프로젝트에 실행 방법, 화면 흐름, 핵심 구현 포인트 정리하기
 - 취업 포트폴리오용 대표 프로젝트를 추가하고 배포/시연 자료 연결하기
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=song-jungkeun&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=song-jungkeun&layout=compact&hide_border=true" alt="Top languages" />
-</div>
 
 ## Contact
 
