@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/song-jungkeun.png" width="150" alt="song-jungkeun profile photo" />
 
-  <h1>song-jungkeun</h1>
+  <h1>song-jeongkeun</h1>
   <p><strong>Backend / Android Developer</strong></p>
   <p>
     문제를 작게 쪼개고, 끝까지 동작하는 코드로 연결하는 개발자입니다.<br />
